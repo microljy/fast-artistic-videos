@@ -20,6 +20,8 @@ Changed file are listed below:
 
 Our approach achieves a 10x-20x
 speed up.
+
+[video demo in youtube](https://youtu.be/qmVblhNhwNk)
 ## Setup
 
 Tested with Ubuntu 14.04.
